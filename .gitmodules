@@ -1,0 +1,3 @@
+[submodule "celery_apps/auto_path"]
+	path = celery_apps/auto_path
+	url = git@github.com:stefaneduard-deaconu/auto-path.git
